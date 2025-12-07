@@ -194,22 +194,23 @@ Validated using:
 ## 📊 Power BI Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](images/page1_executive_overview.png.jpg)
+![Executive Overview](Images/page1_executive_overview.jpg)
 
 ---
 
 ### 2. Error Analytics
-![Error Analytics](images/page2_error_analytics.png.jpg)
+![Error Analytics](Images/page2_error_analytics.jpg)
 
 ---
 
 ### 3. Funnel Breakdown
-![Funnel Breakdown](images/page3_funnel_breakdown.png.jpg)
+![Funnel Breakdown](Images/page3_funnel_breakdown.jpg)
 
 ---
 
 ### 4. Risk & Drill-Through
-![Risk & Drill-Through](images/page4_risk_drillthrough.png.jpg)
+![Risk & Drill-Through](Images/page4_risk_drillthrough.jpg)
+
 
 
 ---
