@@ -286,51 +286,22 @@ Validated using:
 
 ---
 ## 📁 Repository Structure
-
 ai-conversational-call-quality-risk-analytics/
-├─ README.md                      → Project overview & usage guide
-├─ LICENSE                        → MIT open-source license
+├─ README.md
 ├─ powerbi/
-│   ├─ AI_Call_Quality_Risk_Analytics_Dashboard.pbix
-│   └─ archived_versions/         → Older PBIX versions (optional)
+│   └─ AI_Call_Quality_Risk_Analytics_Dashboard.pbix
 ├─ data/
-│   ├─ raw/                        → Raw extracted datasets
-│   │   ├─ call_logs_raw.csv
-│   │   ├─ error_events_raw.csv
-│   │   └─ ...
-│   ├─ processed/                 → Cleaned & transformed datasets
-│   │   ├─ daily_metrics.csv
-│   │   ├─ weekly_metrics.csv
-│   │   ├─ error_funnel_by_day.csv
-│   │   ├─ risk_scored_call_list.csv
-│   │   └─ ...
-│   └─ reference/                 → Lookup / mapping tables
-│       └─ error_type_mapping.csv
+│   └─ processed_metrics.csv
 ├─ sql/
-│   ├─ 00_schema/
-│   │   ├─ create_base_tables.sql
-│   │   └─ create_views.sql
-│   ├─ 01_cleaning/
-│   │   ├─ data_standardization.sql
-│   │   └─ missing_value_handling.sql
-│   ├─ 02_transformations/
-│   │   ├─ daily_aggregation.sql
-│   │   ├─ weekly_aggregation.sql
-│   │   └─ funnel_logic.sql
-│   ├─ 03_risk_scoring/
-│   │   ├─ risk_score_logic.sql
-│   │   └─ risk_bucket_classification.sql
-│   └─ 04_reporting_exports/
-│       ├─ export_daily_metrics.sql
-│       ├─ export_weekly_metrics.sql
-│       └─ export_risk_lists.sql
+│   └─ analytics_pipeline.sql
 ├─ Images/
-│   ├─ page1_executive_overview.png.jpg
-│   ├─ page2_error_analytics.png.jpg
-│   ├─ page3_funnel_breakdown.png.jpg
-│   └─ page4_risk_drillthrough.png.jpg
+│   ├─ executive_overview.png
+│   ├─ error_analytics.png
+│   ├─ funnel_breakdown.png
+│   └─ risk_drillthrough.png
 └─ docs/
-    ├─ Executive_Summary.md       → Business-focused overview
+    └─ Executive_Summary.md
+
     
  
 
