@@ -15,7 +15,7 @@ This is a **public, interview-ready portfolio project** built to reflect **real 
 
 ---
 
-## What This Project Demonstrates (Recruiter-Focused)
+## What This Project Demonstrates 
 This project proves hands-on capability in:
 
 - AI Operations Monitoring  
