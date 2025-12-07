@@ -286,3 +286,12 @@ Validated using:
 ---
 
 ## Repository Structure
+
+/            -> Main README  
+/data        -> Clean CSV analytical outputs  
+/sql         -> SQL scripts  
+/powerbi     -> Power BI dashboard (.pbix)  
+/images      -> Dashboard screenshots  
+/docs        -> Executive summary  
+
+
