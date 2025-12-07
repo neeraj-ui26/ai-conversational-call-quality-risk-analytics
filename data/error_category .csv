@@ -1,0 +1,6 @@
+error_type,total_count,avg_per_call
+asr_errors,487,0.0487
+incorrect_responses,312,0.0312
+repetition_by_bot,493,0.0493
+interruption_handling_error,99,0.0099
+hallucination_error,39,0.0039
