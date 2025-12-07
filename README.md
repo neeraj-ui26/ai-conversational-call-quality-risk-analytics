@@ -263,6 +263,25 @@ High-Risk calls consistently show:
 - Multiple error combinations are injected for co-occurrence validation  
 
 ---
+## 📊 Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](images/page1_executive_overview.png.jpg)
+
+---
+
+### 2. Error Analytics
+![Error Analytics](images/page2_error_analytics.png.jpg)
+
+---
+
+### 3. Funnel Breakdown
+![Funnel Breakdown](images/page3_funnel_breakdown.png.jpg)
+
+---
+
+### 4. Risk & Drill-Through
+![Risk & Drill-Through](images/page4_risk_drillthrough.png.jpg)
 
 ## Dashboard Structure (Power BI)
 
