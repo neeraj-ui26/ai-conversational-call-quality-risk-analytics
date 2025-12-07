@@ -278,7 +278,6 @@ Validated using:
 ---
 
 ## Production-Grade Enhancement Roadmap
-- Real-time ingestion (Kafka / PubSub)
 - Automated high-risk alerts
 - Human-in-the-loop feedback
 - AI rollback triggers
