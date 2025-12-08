@@ -290,18 +290,26 @@ Validated using:
 ai-conversational-call-quality-risk-analytics/
 ├─ README.md
 ├─ powerbi/
-│   └─ AI_Call_Quality_Risk_Analytics_Dashboard.pbix
+│  └─ AI_Call_Quality_Risk_Analytics_Dashboard.pbix
 ├─ data/
-│   └─ processed_metrics.csv
+│  ├─ daily_metrics.csv
+│  ├─ weekly_metrics.csv
+│  ├─ error_impact.csv
+│  ├─ error_funnel_by_day.csv
+│  ├─ error_cooccurrence.csv
+│  ├─ duration_percentile.csv
+│  ├─ duration_percentile_by_day.csv
+│  └─ risk_scored_call_list.csv
 ├─ sql/
-│   └─ analytics_pipeline.sql
+│  └─ analytics_pipeline.sql (plus step-wise SQL files if you add them)
 ├─ Images/
-│   ├─ executive_overview.png
-│   ├─ error_analytics.png
-│   ├─ funnel_breakdown.png
-│   └─ risk_drillthrough.png
+│  ├─ executive_overview.png
+│  ├─ error_analytics.png
+│  ├─ funnel_breakdown.png
+│  └─ risk_drillthrough.png
 └─ docs/
-    └─ Executive_Summary.md
+   └─ Executive_Summary.md
+
 
     
  
